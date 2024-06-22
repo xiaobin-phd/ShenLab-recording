@@ -347,11 +347,9 @@ Fructose 1,6-diphosphate Aldolase 1，6-二磷酸果糖醛缩酶
 33、PCR 1 2 3 
 
 ```
-PCR 1: 第一轮聚合酶链式反应（Polymerase Chain Reaction），通常用于扩增特定的DNA片段或基因。
-
-PCR 2: 第二轮PCR反应，可能是指对PCR产物进行二次扩增或其他特定操作，如检测、纯化等。
-
-PCR 3: 第三轮PCR反应，可能用于进一步扩增或进行特定的分子生物学操作，如构建克隆、测序准备等。
+PCR1 / PCR2 / PCR3 表示（b）和（c）中使
+用的 PCR。PCR1 和 PCR2 检测筛选标签 DHFR 的 5'和 3'整合，而 PCR3 检查 LDH 基因的成功
+缺失。（b 和 c）分别对 Δldh1 和 Δldh2 敲除虫株进行 PCR 检测，野生型虫株 ME49 作为对照
 ```
 
 34、脂质纳米颗粒疫苗
